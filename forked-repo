@@ -1,0 +1,11 @@
+
+
+curl https://api.github.com/repos/danilouzzoli/github-final-project
+
+# output atteso:
+{
+  "full_name": "danilouzzoli/github-final-project",
+  "fork": false,
+  "private": false,
+  ...
+}
